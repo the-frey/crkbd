@@ -2,11 +2,39 @@
 Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys, based on [Helix](https://github.com/MakotoKurauchi/helix).
 Crkbd stands for Corne Keyboard.
 
+This is my (the-frey) fork, in case it goes away for some reason. I've added a few helpful links and some slight changes.
+
 ## Lineups
 - corne-classic
 - corne-cherry: Hotswappable corne for CherryMX switches by kailh PCB sockets.
 - corne-chocolate: Hotswappable corne for Chocolate switches by kailh PCB sockets.
 - corne-light: Lightweight corne(Easily build and Simply PCB).
+
+## PCBs
+
+You can order the corne-cherry from OSHPark [here](https://oshpark.com/projects/tUG718KB).
+
+## Sockets
+
+Socket part numbers from DigiKey:
+
+- S7037-ND‎
+- ED6864-12-ND‎
+- ED4764-64-ND‎
+
+Hotswap sockets:
+
+- From [kbdfans](https://kbdfans.cn/collections/switches/products/mechanical-keyboard-switches-kailh-pcb-socket)
+
+## Diodes
+
+SMD Diode part number from DigiKey:
+
+- 1N4148WXTPMSCT-ND‎
+
+## Stainless steel plate
+
+In case you want to order a stainless steel top plate, you can go into the acrylic plates folder and find the `top-only.ai` file. In the readme there you will find dimensions. This should be enough to take it to laserboost.
 
 ## Photos
 ![cherry_01](https://user-images.githubusercontent.com/736191/47172655-0d0e9b80-d347-11e8-8a11-ccce9bf8d2b4.JPG)
